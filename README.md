@@ -1,5 +1,7 @@
 # BankistApp
 
-### You can use js as username and 111 as password for the login credentials.
+You can use these information for the login credentials
+**username:js password:1111** .
 
-### To be able to cross check money transfers use these credentials as second username: jd password:2222
+To be able to cross check money transfers use these credentials as second user
+**username: jd password:2222**
